@@ -413,6 +413,24 @@ a:hover {
   margin: auto;
 }
 
+.map-container{
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.map-container h4{
+  text-align: center;
+}
+
+.map-container iframe{
+  display:flex;
+  justify-content: center;
+  margin:auto;
+  max-width: 95%;
+  height: 400px;
+}
+
 .about-container{
   margin-top: 5%;
   margin-left: auto;
